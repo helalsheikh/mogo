@@ -1,0 +1,304 @@
+/* Extra small
+@media (max-width: 575.98px) { 
+
+    .banner_text h3 {
+        font-size: 35px;;
+    }
+    .banner_text h1 {
+        font-size: 45px;
+    }
+    #banner {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+    button:focus {
+        outline: none;
+    }
+    #about {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .ab_heading h2 {
+        font-size: 20px;
+    }
+    .ab_heading p {
+        padding: 0 12px;
+    }
+    .ab_heading {
+        margin-bottom: 50px;
+    }
+    .ab_img {
+        margin-bottom: 20px;
+    }
+    #service {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .service_heading h2 {
+        font-size: 20px;
+    }
+    .ser_icon.text-center {
+        margin-bottom: 20px;
+    }
+    .ser_icon i {
+        font-size: 35px;
+    }
+    .test_text p {
+        font-size: 20px;
+        text-align: center;
+        margin-top: 15px;
+    }
+    #team {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .team_heading h2 {
+        font-size: 20px;
+    }
+    .team_heading p {
+        padding: 0px 12px;
+    }
+    .team_heading {
+        margin-bottom: 50px;
+    }
+    .team_item_name {
+        margin-top: 12px;
+        margin-bottom: 25px;
+    }
+    .gallery_heading h2 {
+        font-size: 20px;
+    }
+    .gallery_heading p {
+        padding: 0px 12px;
+    }
+    .gallery_heading {
+        margin-bottom: 40px;
+    }
+    #gallery {
+        padding-bottom: 50px;
+    }
+    #footer {
+        padding-top: 50px;
+    }
+    .blog_heading {
+        margin-bottom: 20px;
+        margin-top: 25px;
+    }
+    .blg_img {
+        text-align: center;
+    }
+    .blg_text {
+        text-align: center;
+    }
+    .blg_text h6 {
+        font-size: 15px;
+        margin-top: 10px;
+    }
+    .blg_text p {
+        font-size: 20px;
+    }
+    .insta_heading h3 {
+        font-size: 16px;
+        margin-bottom: 15px;
+        margin-top: 20px;
+    }
+    .footer_last_item p {
+        font-size: 13px;
+    }
+ } */
+
+
+/* smaill device */
+ /* @media (min-width: 576px) and (max-width: 767.98px) { 
+
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+    button:focus {
+        outline: none;
+    }
+    .banner_text h1 {
+        font-size: 80px;
+    }
+    .banner_text h3 {
+        font-size: 50px;
+    }
+    #banner {
+        padding-top: 200px;
+        padding-bottom: 170px;
+    }
+    #about {
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+    .ab_heading p {
+        font-size: 16px;
+        padding: 0 15px;
+    }
+    .ab_heading {
+        margin-bottom: 50px;
+    }
+    .ab_img {
+        margin-bottom: 20px;
+    }
+    .ser_text.text-center {
+        margin-top: 15px;
+    }
+    #service {
+        padding-bottom: 50px;
+    }
+    .test_text {
+        margin-top: 15px;
+        text-align: center;
+    }
+    .test_text h6::before {
+        left: 110px;
+    }
+    #team {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .team_heading p {
+        font-size: 16px;
+        padding: 0 0px;
+    }
+    .team_item_name {
+        margin-top: 15px;
+        margin-bottom: 30px;
+    }
+    .gallery_heading p {
+        font-size: 16px;
+        padding: 0 0px;
+    }
+    .blog_heading {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    } */
+
+
+  
+
+/* Medium devices  */
+  /* @media (min-width: 768px) and (max-width: 991.98px) { 
+
+
+    .navbar-light .navbar-toggler {
+        border: none;
+    }
+    button:focus {
+        outline: none;
+    }
+    .banner_text h1 {
+        font-size: 120px;
+    }
+    .ab_heading p {
+        font-size: 16px;
+        padding: 0 0px;
+    }
+    .overly_text {
+        margin-top: 45px;
+    }
+    .ser_text h5 {
+        font-weight: 600;
+        font-size: 16px;
+        margin-top: 15px;
+    }
+    .test_text p {
+        font-size: 20px;
+    }
+    .team_heading p {
+        font-size: 16px;
+        padding: 0 0px;
+    }
+    .gallery_heading p {
+        font-size: 16px;
+        padding: 0 0px;
+    }
+    .blog_heading {
+        margin-bottom: 20px;
+        margin-top: 20px;
+    }
+   } */
+
+/* This work is done by me. */
+/* extra smaill device */
+@media (min-width: 576px) and (max-width: 767.98px){
+
+    .navbar-light .navbar-toggler {
+        border: none;}
+
+          button:focus {
+        outline: none}
+        .banner_text h3 {
+            font-size: 61px;
+            margin-left: 74px;
+        }
+        #banner {
+            padding-top: 113px;
+        }
+        .banner_text h3 {
+            font-size: 39px;
+        }
+        .banner_text h1 {
+            font-size: 53px;
+        }.banner_text h1:before {
+            bottom: -26px;
+        }
+        .ab_heading p {
+            margin-top: 61px;
+        }
+}
+ /* Small divice */
+@media (max-width: 575.98px){
+
+    .navbar-light .navbar-toggler {
+        border: none;}
+
+          button:focus {
+        outline: none}
+
+    .banner_text h1 {
+        font-size: 93px;
+    }
+    #about {
+        padding-top: 40px;
+    }
+    .ab_heading p {
+        padding: 0px 33px;
+    }
+    img.img-fluid.w-100 {
+        padding-bottom: 50px;
+    }section#about {
+  padding-top: 44px;
+     }
+    .test_text p {
+        font-size: 22px;
+    }
+    .team_heading {
+        margin-bottom: 44px;
+    }
+    img.img-fluid.w-100 {
+        padding-bottom: 40px;
+    }
+    h2 {
+        padding-top: 21px;
+    }
+    img.img-fluid {
+        padding-bottom: 9px;
+    }
+
+
+
+
+
+
+}
+
+
+
+
+
+
